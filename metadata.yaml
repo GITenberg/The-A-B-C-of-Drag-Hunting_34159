@@ -1,0 +1,35 @@
+_repo: The-A-B-C-of-Drag-Hunting_34159
+_version: 0.1.0
+alternative_title:
+- A Hunting Alphabet
+- The ABC of Drag Hunting
+contributor:
+  illustrator:
+    agent_name: Newton, Richard
+    birthdate: 1874
+    deathdate: 1951
+    gutenberg_agent_id: '38880'
+    url: http://www.gutenberg.org/2009/agents/38880
+covers:
+- cover_type: archival
+  image_path: 34159-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Newton, Grace Clarke
+    gutenberg_agent_id: '36820'
+    url: http://www.gutenberg.org/2009/agents/36820
+description: ''
+gutenberg_issued: '2010-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alphabet rhymes'
+- !lcsh 'Hunt riding -- Poetry'
+- !lcc 'PS'
+title: The A B C of Drag Hunting
+url: http://www.gutenberg.org/ebooks/34159
